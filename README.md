@@ -1,6 +1,6 @@
 ### Hello 👋
 - 🌱 I’m currently learning web and mobile development.
-- :man_student:  Studying a TICs Engineering in PUCE/Ecuador 	.
+- :man_student:   Studying a TICs Engineering in PUCE/Ecuador 	.
 ### Languages that I learned:computer:
 - Javascript/Typescript
 - C++
