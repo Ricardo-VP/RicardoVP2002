@@ -1,7 +1,7 @@
 ### Hello 👋
 - 🌱 I’m currently involved in web and mobile development.
 - :man_student:   Studying a TICs Engineering in PUCE/Ecuador 	.
-### Languages that I learned:computer:
+### Languages that I used:computer:
 - Javascript/Typescript
 - C++
 - C#
