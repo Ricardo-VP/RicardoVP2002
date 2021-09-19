@@ -7,12 +7,14 @@
 - C#
 - Java
 - SQL
+- PHP
 ### Technologies that I currently use :hammer_and_wrench:	
 - Angular/React
+- Laravel
 - React Native
 - NodeJS
 - MongoDB
-- SQL
+- MSSQL / MYSQL
 - Express
 - Docker
 ### Contact 💬
