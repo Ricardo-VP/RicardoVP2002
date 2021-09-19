@@ -1,5 +1,5 @@
 ### Hello 👋
-- 🌱 I’m currently learning web and mobile development.
+- 🌱 I’m currently involved in web and mobile development.
 - :man_student:   Studying a TICs Engineering in PUCE/Ecuador 	.
 ### Languages that I learned:computer:
 - Javascript/Typescript
