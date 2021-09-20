@@ -18,7 +18,7 @@
 - Express
 - Docker
 ### Portfolio ⚡
-- https://portafolio-ricardo-vaca-dev.netlify.app/ (In progress).
+- https://bit.ly/portafolio-rvp (In progress).
 ### Contact 💬
 - Gmail: ricardo.vacape@gmail.com
 - Facebook: https://www.facebook.com/ricardo.vak/
