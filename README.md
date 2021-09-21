@@ -9,14 +9,18 @@
 - SQL
 - PHP
 ### Technologies that I currently use :hammer_and_wrench:	
-- Angular/React
+#### Frontend
+- Angular
+- React
+- Livewire
+#### Backend
 - Laravel
-- React Native
 - NodeJS
 - MongoDB
 - MSSQL / MYSQL
-- Express
 - Docker
+#### Mobile
+- React Native
 ### Portfolio ⚡
 - https://bit.ly/portafolio-rvp (In progress).
 ### Contact 💬
