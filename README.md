@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello, I'm Ricardo, a Software Developer 👋
 - 🌱 I’m currently involved in web and mobile development.
 - :man_student:   Studying a TICs Engineering in PUCE/Ecuador 	.
 ### Languages that I used:computer:
