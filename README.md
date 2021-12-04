@@ -12,7 +12,6 @@
 #### Frontend
 - Angular
 - React
-- Livewire
 #### Backend
 - Laravel
 - NodeJS
