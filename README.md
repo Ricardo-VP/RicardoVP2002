@@ -1,7 +1,7 @@
 ### Hello, I'm Ricardo, a Software Developer 👋
 - 🌱 I’m currently involved in web and mobile development.
 - :man_student:   Studying a IT Engineering in PUCE/Ecuador 	.
-### Languages that I used:computer:
+### Languages that I have learned:computer:
 - <img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" />
 - <img height="36" width="32" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 - <img height="32" width="32" src="https://iconape.com/wp-content/png_logo_vector/c.png" />
