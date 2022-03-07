@@ -21,7 +21,7 @@
 - <img width="80" src="https://docs.cypress.io/_nuxt/img/cypress-logo.e6638ae.png" />
 - <img width="32" src="https://miro.medium.com/max/1200/1*2N2fOjoSdTVvnhQosUTpnw.png" />
 ### Portfolio ⚡
-- https://bit.ly/portafolio-rvp (In progress).
+- https://portafolio-ricardovp-dev.netlify.app/ (In progress).
 ### Contact 💬
 - Gmail: ricardo.vacape@gmail.com
 - Facebook: https://www.facebook.com/ricardo.vak/
